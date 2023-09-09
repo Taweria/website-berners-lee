@@ -2,7 +2,7 @@
 
 :root {
     --coral: #DD5555;
-    --grey: #9299AC;
+    --grey: #cdd1df;
 }
 
 body{
@@ -108,7 +108,7 @@ header{
     display: block;
     margin: 5% 20%;
     padding: 10px;
-    border: 2px solid var(--grey);
+    border: 2px solid white;
     box-shadow: 1px 1px 50px var(--grey);
     border-radius: 5px;
  }
