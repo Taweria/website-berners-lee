@@ -1,12 +1,8 @@
 # Website about Tim Berners-Lee
 
-## Contributors
-
-[Ali Elodie (Taweria )]( https://github.com/Taweria)
-
 ## What's the project?
 
-**It's a website about Tim Berners-Lee.**
+**It's a website about Tim Berners-Lee made according to a template given by my coach.**
 
 I did this project during my training at BeCode.org (extra exercise).
 
@@ -15,3 +11,7 @@ I did this project during my training at BeCode.org (extra exercise).
 
 * HTML
 * CSS
+
+## Goal Css 
+
+![Goal Css](./assets/storage/goal-css.png)
